@@ -1,6 +1,6 @@
 # Privacy Policy for Schnazel
 
-**Effective date:** 2 October 2026
+**Effective date:** 2 November 2026
 **Developer:** Serbus Game Studios
 **Contact:** SerbusGameStudios@gmail.com
 
@@ -9,8 +9,9 @@ This policy explains how the Schnazel mobile game ("the app") handles your infor
 ## The short version
 
 Schnazel does not collect, transmit, or share any personal information. The app has no
-user accounts, no analytics, no advertising, and no network features. The app itself sends
-nothing off your device.
+user accounts, no analytics, no advertising, and no online play. The app itself sends
+nothing off your device. The only outside service it uses is Google Play's own update check,
+described below.
 
 ## Information we collect
 
@@ -29,6 +30,8 @@ sessions:
 - **Game settings** — your chosen player count, opponent difficulty, visual style, game
   speed, and similar gameplay preferences.
 - **Game statistics** — your lifetime record of games played and won.
+- **Your match in progress** — the scores and cards of a game you have not finished, so it can be
+  resumed. It is deleted when the game ends or you start a new one.
 
 This data is stored in the app's private storage on your own device. The app never
 transmits it to us or to anyone else, and we have no way to see it. It is removed from the
@@ -41,6 +44,14 @@ is turned on for your device, Android saves only those two small files to your o
 account and restores them for you. That is a feature of your device and your Google account, governed by
 Google's terms and your device's backup settings; it is not sent to us and we cannot access
 it. You can turn it off in your Android settings.
+
+## App updates
+
+When you open the app, it asks the Google Play Store app on your device whether a newer
+version of Schnazel is available, using Google's Play In-App Updates library. If there is one,
+Google Play offers it to you and downloads and installs it, just as it updates any app installed
+from the Play Store. Google Play performs that check and download under Google's own terms and
+privacy policy. The app sends us nothing in the process, and we receive nothing from it.
 
 ## Sharing
 
